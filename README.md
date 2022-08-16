@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Devoteam and finishing my master's dissertation about Microservices
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-pereira-b18750164/), [Personal Website](https://josepereira1.github.io/)
+- 💬 Ask me about everything
+
 <!--
 **josepereira1/josepereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
