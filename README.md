@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently available for new proposals, please contact me
+- 🔭 I’m currently working as Java Backend Developer at ITSector
 - 🌱 I’m currently learning more about Java and it is frameworks
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joseandrepereira/), [Personal Website](https://josepereira1.github.io/)
 
