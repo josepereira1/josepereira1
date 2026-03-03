@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Java Backend Developer at [ITSector](https://www.itsector.pt/)
-- 🌱 I’m currently learning more about Java and it is frameworks
+- 🔭 I’m currently working as Software Backend Engineer at [Celfocus](https://www.celfocus.com)
+- 🌱 I’m currently learning more about Java and other tools
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joseandrepereira/), [Personal Website](https://josepereira1.github.io/)
 
 <!--
